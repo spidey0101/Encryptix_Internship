@@ -48,11 +48,11 @@ This repository contains the projects I completed during the Encryptix Data Scie
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/encryptix-internship-projects.git
+    git clone https://github.com/spidey0101/Encryptix_Internship.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd encryptix-internship-projects
+    cd Encryptix_Internship
     ```
 3. Install the required packages:
     ```bash
